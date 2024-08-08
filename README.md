@@ -1,0 +1,1 @@
+# nitome-static-content
