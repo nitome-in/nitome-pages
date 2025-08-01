@@ -1,4 +1,4 @@
-**Aadarsh Vidyarthi Prakashan** is a firm specialising in publication of educational, religious and children books. Since the business was established in 1970, we have established thousands of educational books. Adarsh Vidyarthi Prakashan is a reputed name in educational as well as religious volumes (marathi).
+**Aadarsh Vidyarthi Prakashan** is a firm specialising in publication of educational, religious and children books. Since the business was established in 1970, we have established thousands of educational books. Adarsh Vidyarthi Prakashan is a reputed name in educational as well as religious volumes (marathi).  
 Our team reflects a commitment to the vision of becoming and remaining the market leading provider of high quality books and content, with a passion for keeping our customers satisfied.
 ---
 
@@ -18,7 +18,7 @@ Our books are widely adopted by students, parents, schools, and competitive exam
 
 Backed by a modern facility in the **Narhe Industrial Area**, we offer **end-to-end publishing and printing solutions**. Our expertise spans:
 
-* Web-offset and offset printing
+* Web-offset and offset printing 
 * Custom educational notebook production
 * Private-label publishing and institutional printing
 
@@ -32,11 +32,11 @@ Many of our titles are distributed via our publishing collaborator **Atharvashre
 
 ### 📞 Contact Us
 
-**Aadarsh Vidyarthi Prakashan**
-Shed No. 2, S. No. 38/2, Hissa No. 5 & 6
-Narhe Industrial Estate, Haveli,
+**Aadarsh Vidyarthi Prakashan**  
+Shed No. 2, S. No. 38/2, Hissa No. 5 & 6  
+Narhe Industrial Estate, Haveli,  
 Pune – 411041, Maharashtra
 
-**Email**: [sales@atharvashree.in](mailto:sales@atharvashree.in)
-**Phone**: +91 020 24476809
+**Email**: [sales@atharvashree.in](mailto:sales@atharvashree.in)  
+**Phone**: +91 020 24476809  
 **website**: https://atharvashree.in

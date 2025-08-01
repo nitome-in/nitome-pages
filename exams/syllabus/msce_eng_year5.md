@@ -1,0 +1,47 @@
+### Syllabus Overview
+
+The Maharashtra Scholarship Exam for Year 5 assesses students on four main areas: First Language, Second Language, Mathematics, and Intelligence Test (Mental Ability). Below is the detailed syllabus for each subject:
+
+### First Language (Marathi/Urdu/Hindi/English)
+
+- Grammar: Parts of speech, tenses, sentence structure, punctuation<br>
+- Vocabulary: Synonyms, antonyms, homonyms, word meanings<br>
+- Comprehension: Reading comprehension passages and answering questions<br>
+- Usage: Correct usage of words and sentence construction<br>
+
+### Second Language (Marathi/Urdu/Hindi/English)
+
+- Grammar: Nouns, verbs, adjectives, adverbs, prepositions<br>
+- Vocabulary: Word meanings, synonyms, antonyms<br>
+- Reading Comprehension: Short passages followed by questions<br>
+- Translation (if applicable): Translating simple sentences between languages<br>
+
+### Mathematics
+
+- Number System: Natural numbers, whole numbers, integers, fractions, and decimals<br>
+- Basic Operations: Addition, subtraction, multiplication, and division<br>
+- Geometry: Lines, angles, triangles, quadrilaterals, circles, perimeter, and area<br>
+- Measurement: Length, weight, volume, time, money<br>
+- Patterns: Number patterns, sequence completion<br>
+- Word Problems: Real-life application of mathematical concepts<br>
+
+### Intelligence Test (Mental Ability)
+
+- Logical Reasoning: Deductive and inductive reasoning<br>
+- Pattern Identification: Finding missing elements in a series or sequence<br>
+- Analogies: Identifying relationships between pairs of words or figures<br>
+- Classification: Grouping and identifying objects based on shared characteristics<br>
+- Series Completion: Completing number, letter, or figure series<br>
+- Mirror and Water Images: Identifying reflected or rotated figures<br>
+- Direction Sense: Problems based on directions (left, right, north, south, etc.)<br>
+
+### References
+
+| Week | Topic                     | Assignments       |
+|------|---------------------------|-------------------|
+| 1    | Introduction to CS        | Read Chapter 1    |
+| 2    | Programming Basics        | Quiz 1            |
+| 3    | Functions & Modular Code  | Assignment 1      |
+
+
+- [https://2024.mscepuppss.in/](https://2024.mscepuppss.in/)
