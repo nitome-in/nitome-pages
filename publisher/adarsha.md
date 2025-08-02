@@ -2,7 +2,7 @@
 Our team reflects a commitment to the vision of becoming and remaining the market leading provider of high quality books and content, with a passion for keeping our customers satisfied.
 ---
 
-### 📚 Our Publishing Focus
+### Our Publishing Focus
 
 * **Educational Books (Std. 2–12)** – Covering core subjects with a focus on the Maharashtra State Board curriculum
 * **Undergraduate Guides** – Reliable support material for B.A. and B.Com students
@@ -14,7 +14,7 @@ Our books are widely adopted by students, parents, schools, and competitive exam
 
 ---
 
-### 🖨️ Printing & Services
+### Printing & Services
 
 Backed by a modern facility in the **Narhe Industrial Area**, we offer **end-to-end publishing and printing solutions**. Our expertise spans:
 
@@ -24,13 +24,7 @@ Backed by a modern facility in the **Narhe Industrial Area**, we offer **end-to-
 
 ---
 
-### 🤝 Our Partners
-
-Many of our titles are distributed via our publishing collaborator **Atharvashree Publications**, extending our reach to online and offline bookstores, schools, and vendors across the state.
-
----
-
-### 📞 Contact Us
+### Contact Us
 
 **Aadarsh Vidyarthi Prakashan**  
 Shed No. 2, S. No. 38/2, Hissa No. 5 & 6  
