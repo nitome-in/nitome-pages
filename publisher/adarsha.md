@@ -1,3 +1,6 @@
+<img src="https://atharvashree.in/wp-content/uploads/2024/04/Atharvshree-logo-1-1024x712.png" alt="logo" width="150"/>
+<br/>>
+
 **Aadarsh Vidyarthi Prakashan** is a firm specialising in publication of educational, religious and children books. Since the business was established in 1970, we have established thousands of educational books. Adarsh Vidyarthi Prakashan is a reputed name in educational as well as religious volumes (marathi).  
 Our team reflects a commitment to the vision of becoming and remaining the market leading provider of high quality books and content, with a passion for keeping our customers satisfied.
 
@@ -30,3 +33,5 @@ Pune – 411041, Maharashtra
 **Email**: [sales@atharvashree.in](mailto:sales@atharvashree.in)  
 **Phone**: +91 020 24476809  
 **website**: https://atharvashree.in
+
+
