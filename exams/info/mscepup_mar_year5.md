@@ -29,5 +29,3 @@
 1. महाराष्ट्र राज्य पाठ्यपुस्तक निर्मिती मंडळ
 2. https://2025.puppssmsce.in/
 3. https://mscepuppss.s3.ap-south-1.amazonaws.com/Exam_Information/Exam_Pattern/EXAM_PATTERN_5THAND_8TH.pdf
-
-MSCEPSS_MAR
