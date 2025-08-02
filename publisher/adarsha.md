@@ -1,6 +1,5 @@
 **Aadarsh Vidyarthi Prakashan** is a firm specialising in publication of educational, religious and children books. Since the business was established in 1970, we have established thousands of educational books. Adarsh Vidyarthi Prakashan is a reputed name in educational as well as religious volumes (marathi).  
 Our team reflects a commitment to the vision of becoming and remaining the market leading provider of high quality books and content, with a passion for keeping our customers satisfied.
----
 
 ### Our Publishing Focus
 
