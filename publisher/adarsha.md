@@ -1,7 +1,7 @@
 **Aadarsh Vidyarthi Prakashan** is a firm specialising in publication of educational, religious and children books. Since the business was established in 1970, we have established thousands of educational books. Adarsh Vidyarthi Prakashan is a reputed name in educational as well as religious volumes (marathi).  
 Our team reflects a commitment to the vision of becoming and remaining the market leading provider of high quality books and content, with a passion for keeping our customers satisfied.
 
-### Our Publishing Focus
+#### Our Publishing Focus
 
 * **Educational Books (Std. 2–12)** – Covering core subjects with a focus on the Maharashtra State Board curriculum
 * **Undergraduate Guides** – Reliable support material for B.A. and B.Com students
@@ -11,9 +11,7 @@ Our team reflects a commitment to the vision of becoming and remaining the marke
 
 Our books are widely adopted by students, parents, schools, and competitive exam aspirants throughout Maharashtra.
 
----
-
-### Printing & Services
+#### Printing & Services
 
 Backed by a modern facility in the **Narhe Industrial Area**, we offer **end-to-end publishing and printing solutions**. Our expertise spans:
 
@@ -21,9 +19,8 @@ Backed by a modern facility in the **Narhe Industrial Area**, we offer **end-to-
 * Custom educational notebook production
 * Private-label publishing and institutional printing
 
----
 
-### Contact Us
+#### Contact Us
 
 **Aadarsh Vidyarthi Prakashan**  
 Shed No. 2, S. No. 38/2, Hissa No. 5 & 6  
