@@ -233,8 +233,13 @@ Read about:
 # Key Success Tips
 
 ✅ Understand concepts instead of memorizing facts
+
 ✅ Relate scientific concepts to everyday life
+
 ✅ Practice reasoning and application-based questions
+
 ✅ Revise textbook diagrams, activities, and experiments
+
 ✅ Stay curious about science and current developments
+
 ✅ Solve previous HBYS question papers and mock tests whenever available
