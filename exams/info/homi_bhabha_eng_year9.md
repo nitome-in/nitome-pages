@@ -1,6 +1,3 @@
-# Dr. Homi Bhabha Balvaidnyanik Competition (6th Standard)
-
-## Basic Science: Theory and Concepts
 
 The **Dr. Homi Bhabha Balvaidnyanik Competition** has been conducted by the **Greater Bombay Science Teachers' Association (GBSTA)** since 1981.
 

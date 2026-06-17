@@ -1,220 +1,114 @@
-# Homi Bhabha Young Scientist (HBYS) Examination
 
-## Syllabus for 6th Standard Students
+The **Dr. Homi Bhabha Balvaidnyanik Competition** has been conducted by the **Greater Bombay Science Teachers' Association (GBSTA)** since 1981.
 
----
+This four-stage competition aims to:
+
+- Arouse curiosity in young scientists.
+- Develop problem-solving abilities.
+- Improve precision in observation and motor skills.
+- Sensitize students to their immediate environment.
+- Encourage rational initiatives when needed.
+
+## Objectives
+
+1. Create scientific temperament among school children.
+2. Build a scientific knowledge-based society.
+3. Select and nurture young scientists for national development.
+4. Promote science and spread awareness about environmental conservation.
 
 ## Eligibility
 
-The competition is conducted for students of **6th and 9th Standard** (English and Marathi Medium) studying in:
+- 6th Standard
+- 9th Standard
 
-| Eligible Boards |
-|-----------------|
-| Maharashtra State Board (SSC) |
-| CBSE |
-| ICSE |
-| IB |
-| Other State Boards |
+Boards: SSC, CBSE, ICSE, IB and other State Boards.
 
----
+## Syllabus
 
-# Examination Pattern
-
-The examination emphasizes **scientific thinking and application of concepts** rather than rote learning.
-
-## Assessment Focus
-
-| Less Emphasis On | More Emphasis On |
-|------------------|------------------|
-| Knowledge-based questions | Understanding |
-| Memorization | Reasoning |
-| Direct factual recall | Correlation |
-| | Application of concepts |
-| | Scientific thinking |
-| | Observation and analysis |
-
----
-
-## Question Sources
-
-| Source |
-|---------|
-| Maharashtra State Board Science Textbooks (majority of questions) |
-| Relevant topics from CBSE, ICSE, and IB Science Textbooks |
-| General Science Knowledge |
-| Science in Everyday Life |
-
----
-
-# Syllabus Distribution (6th Standard Group)
-
-| Source | Approximate Weightage |
-|----------|----------:|
-| 4th Standard Science | 10% |
-| 5th Standard Science | 20% |
-| 6th Standard Science | 60% |
+| Syllabus | Approximate Weightage |
+|-----------|----------------------|
+| 4th Std | 10% |
+| 5th Std | 20% |
+| 6th Std | 60% |
 | General Science Knowledge | 10% |
 
----
+## Stages of Competition
 
-# 4th Standard Science (Approx. 10%)
+1. Theory Competition
+2. Practical Competition
+3. General Interview
+4. Action Research Project Evaluation and Interview
 
-| Section | Topics |
-|----------|---------|
-| Living World | Living and non-living things, Plants and animals |
-| Food and Health | Food and nutrition, Healthy habits |
-| Environment | Water and its uses, Air, Cleanliness and hygiene, Our surroundings |
-| Earth and Space | Day and night, Weather, Seasons |
-| Science Around Us | Simple machines, Safety rules, Natural resources |
+## Phase I: Theory Competition
 
----
+- 100 MCQs
+- 100 Marks
+- 90 Minutes
+- No negative marking
 
-# 5th Standard Science (Approx. 20%)
+### Selection
 
-| Section | Topics |
-|----------|---------|
-| Living World | Classification of plants, Classification of animals, Habitats and adaptations |
-| Human Body and Health | Food groups, Balanced diet, Digestive system (basic concepts), Personal hygiene |
-| Environment | Water cycle, Pollution, Conservation of natural resources |
-| Force and Energy | Work and simple machines, Sources of energy |
-| Earth and Space | Solar system, Planets, Moon and stars |
+- Top 7.5% students qualify for Phase II and receive Merit Certificates.
+- Other successful students receive Passing Certificates.
 
----
+## Phase II: Practical Competition
 
-# 6th Standard Science (Approx. 60%)
+- 5 experiments
+- 6 marks each
+- Total: 30 marks
+- Duration: 30 minutes
 
-| Section | Topics |
-|----------|---------|
-| Natural Resources | Air, Water, Soil, Conservation of natural resources |
-| Living World | Diversity in plants, Diversity in animals, Classification, Adaptations |
-| Human Body and Health | Nutrition, Digestive system, Health and diseases |
-| Matter and Materials | States of matter, Properties of materials, Separation of substances |
-| Force and Motion | Types of forces, Motion in daily life, Friction (basic concepts) |
-| Energy | Sources of energy, Renewable resources, Non-renewable resources |
-| Environment | Ecosystems, Food chains, Environmental conservation |
-| Earth and Space | Structure of the Earth, Rocks and minerals, Solar system, Eclipses, Seasons |
-| Science in Daily Life | Household technologies, Safety and precautions, Everyday applications of science |
+### Selection
 
----
+Based on:
 
-# General Science Knowledge (Approx. 10%)
+30% of Phase I Marks + Phase II Marks
 
-## Scientists
+Top 10% qualify for Phase III and Phase IV.
 
-| Topics |
-|---------|
-| Homi Jehangir Bhabha |
-| C. V. Raman |
-| A. P. J. Abdul Kalam |
-| Other notable scientists |
+## Phase III: General Interview
 
-### Science and Technology
+- Conducted in Mumbai
+- Oral examination
+- Marks: 30
+- Duration: 5–10 minutes
 
-- ISRO missions
-- Space exploration
-- Scientific inventions
-- Important discoveries
+## Phase IV: Action Research Project
 
-### Environment
+Process:
 
-- Climate and conservation
-- Environmental issues
+1. Select a topic.
+2. Plan the project.
+3. Conduct experiments.
+4. Record observations.
+5. Develop solutions.
+6. Prepare report.
+7. Present before experts.
+8. Viva examination.
 
-### Current Science Awareness
+- Marks: 30
+- Duration: 5–10 minutes
 
-- Recent scientific developments
-- Science-related observances
-- National and international science events
+## Final Medal Selection
 
-### Everyday Science
+Based on:
 
-- Science in daily life
-- Common scientific phenomena
-- Practical applications of scientific concepts
+30% of Phase I + Phase II + Phase III + Phase IV
 
----
+### Gold Medal
 
-# Preparation Guidelines
+- Top 10%
+- Certificate
+- ₹3,000 Scholarship
 
-## 1. Maharashtra State Board Textbooks
+### Silver Medal
 
-Study Science textbooks of:
+- Next 60%
+- Certificate
+- ₹2,000 Scholarship
 
-| Standard |
-|-----------|
-| 4th Standard |
-| 5th Standard |
-| 6th Standard |
+### Bronze Medal
 
----
-
-## 2. Conceptual Understanding
-
-Focus on:
-
-- Why does it happen?
-- How does it work?
-- Real-life applications
-
----
-
-## 3. Scientific Reasoning
-
-Practice:
-
-- Observation-based questions
-- Logical reasoning
-- Correlation and inference
-- Problem-solving
-
----
-
-## 4. Science General Knowledge
-
-Read about:
-
-- Scientists
-- Space missions
-- Environmental issues
-- Current scientific developments
-
----
-
-# Suggested Study Effort Distribution
-
-| Area | Suggested Effort |
-|--------|--------:|
-| 6th Standard Science | 60% |
-| 5th Standard Science | 20% |
-| 4th Standard Science | 10% |
-| General Science Knowledge | 10% |
-
----
-
-# Quick Revision Summary
-
-| Category | Weightage | Priority |
-|-----------|----------:|-----------|
-| 6th Standard Science | 60% | ⭐⭐⭐⭐⭐ |
-| 5th Standard Science | 20% | ⭐⭐⭐⭐ |
-| 4th Standard Science | 10% | ⭐⭐⭐ |
-| General Science Knowledge | 10% | ⭐⭐⭐ |
-
----
-
-# Key Success Tips
-
-| ✓ Recommended Strategy |
-|------------------------|
-| Understand concepts instead of memorizing facts |
-| Relate scientific concepts to everyday life |
-| Practice reasoning and application-based questions |
-| Revise textbook diagrams, activities, and experiments |
-| Stay curious about science and current developments |
-| Solve previous HBYS question papers and mock tests whenever available |
-
----
-
-## Final Preparation Formula
-
-**Textbook Mastery (90%) + General Science Awareness (10%) + Strong Reasoning Skills = HBYS Success**
+- Remaining candidates
+- Certificate
+- ₹1,000 Scholarship

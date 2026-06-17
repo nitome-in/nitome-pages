@@ -1,8 +1,5 @@
-# Homi Bhabha Young Scientist (HBYS) Examination
-## Syllabus for 6th Standard Students
 
-### Eligibility
-The competition is conducted for students of **6th and 9th Standard** (English and Marathi Medium) studying in:
+The **Dr. Homi Bhabha Balvaidnyanik Competition** has been conducted by the **Greater Bombay Science Teachers' Association (GBSTA)** since 1981.
 
 - Maharashtra State Board (SSC)
 - CBSE
